@@ -6,7 +6,7 @@
 
 - Created - 2024-08-22
 
-- Technologies Used - Html , Css , tailwind , responsive , bootstrap , JavaScript , React  
+- Technologies Used - Html , Css , tailwind , responsive , bootstrap , JavaScript , React , Framer Motion
 
 - Role - Frontend
 
